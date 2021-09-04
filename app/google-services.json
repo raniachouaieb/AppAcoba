@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066122045831",
+    "project_id": "acobaapp",
+    "storage_bucket": "acobaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066122045831:android:412ad4dd2eaf9036ca8b22",
+        "android_client_info": {
+          "package_name": "com.example.appacoba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066122045831-ifo7ti7adc5ovl67a8spao8nl1tm9o5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChCrMrRSoUzvrWNm1mc2ngHgxkP-1tgk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066122045831-ifo7ti7adc5ovl67a8spao8nl1tm9o5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
